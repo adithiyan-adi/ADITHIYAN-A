@@ -45,7 +45,7 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/adithiyan-adi/adithiyan-adi/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/adithiyan-adi/ADITHIYAN-A/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
